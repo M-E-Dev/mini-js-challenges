@@ -1,4 +1,4 @@
-// "It is a perfect number" or "It is not a perfect number
+// "Iperfect number, a positive integer that is equal to the sum of its proper divisors.
 
 const isPerfect = (num) => {
   let sum = 0;
